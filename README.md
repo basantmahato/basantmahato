@@ -120,6 +120,18 @@ I enjoy building products, exploring low-level system concepts, and writing clea
 
 ---
 
+
+### SEO, Growth & Monetization
+
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google)
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay)
+![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=googleads)
+![Google AdSense](https://img.shields.io/badge/Google_AdSense-4285F4?style=for-the-badge&logo=googleadsense)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-SEO-0A66C2?style=for-the-badge)
+
+---
+
 ### Currently Learning
 
 ```text
