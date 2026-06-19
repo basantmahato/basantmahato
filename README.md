@@ -1,80 +1,77 @@
 <h1 align="center">Hi 👋, I'm Basant Kumar Mahato</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Java DSA | Backend Enthusiast</h3>
+
+<h3 align="center">
+Full Stack Developer • Backend Enthusiast • Building Scalable Web Applications
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Graduate (2023 – 2026)
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **DSA in Java + Spring Boot + System Design**
-- 🔥 Interested in Backend Engineering & Scalable Systems
-- 📫 Reach me at: your-email@gmail.com
+I’m a Full Stack Developer from India with hands-on experience building modern web and mobile applications.
+
+I enjoy working across the entire development stack — from designing responsive frontends to building scalable backend systems and APIs.
+
+My primary focus is backend engineering, system architecture, and creating real-world production-ready applications.
+
+Currently focused on improving problem-solving skills with Java DSA while exploring scalable system design and distributed systems.
+
+I enjoy building products, learning new technologies, and writing clean maintainable code.
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css)
+### Languages
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-
-### Other Tools
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 
 ---
 
-## 📌 Featured Projects
+### Frontend Development
 
-### 🔹 PyLearn
-A Python learning mobile app built for beginners.
-
-### 🔹 News App
-MERN stack news platform with admin dashboard & authentication.
-
-### 🔹 MCQ App
-JWT authentication, leaderboard, role-based admin dashboard.
-
-### 🔹 Distributed System Project
-Dockerized backend system using:
-- Nginx Load Balancer
-- Redis Caching
-- Rate Limiting
-- Multiple Backend Containers
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwind-css)
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge\&logo=react)
 
 ---
 
-## 📈 GitHub Stats
+### Backend Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🔥 Current Focus
-
-- Solving DSA Daily (Java)
-- Learning Spring Boot
-- Building Production Grade Projects
-- Preparing for Developer Roles
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 
 ---
 
-## 🌐 Connect With Me
+### Database
 
-[LinkedIn](YOUR_LINKEDIN)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge\&logo=redis)
 
-[Portfolio](YOUR_PORTFOLIO)
+---
 
-[Twitter/X](YOUR_TWITTER)
+### Tools & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+
+---
+
+### Currently Learning
+
+```text
+Java DSA • Spring Boot • System Design • Distributed Systems
+```
+
+</>
+Building software that solves real-world problems.
