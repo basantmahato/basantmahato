@@ -37,6 +37,7 @@ I enjoy building products, exploring low-level system concepts, and writing clea
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
 ![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge\&logo=react)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron)
 ![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge\&logo=expo)
 ![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
